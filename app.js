@@ -15,6 +15,17 @@ app.use('/', indexRouter);
 app.use('/about', aboutRouter);
 app.use('/project', projectRouter);
 
+app.use((req, res, next) => {
+    const err = new Error('Not Found');
+    err.status = 404;
+    next(err);
+});
+
+app.use((err, req, res, next) => {
+    res.locals.error = err
+    res.status(err.status);
+    res.render('error')
+});
 
 app.listen(3000, () => {
     console.log('app is running on local host 3000')

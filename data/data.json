@@ -7,7 +7,7 @@
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "to be filled",
             "github_link": "https://github.com/JorgeLopez3092/javascript-project-2",
-            "image_urls": ["/static/img/jsProject2ss1.png", "/static/img/jsProject2ss2.png"]
+            "image_urls": ["/static/img/jsProject2ss1Thumbnail.png", "/static/img/jsProject2ss1.png", "/static/img/jsProject2ss2.png"]
         },
         {
             "id": "1",
@@ -16,7 +16,7 @@
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
             "live_link": "to be filled",
             "github_link": "https://github.com/JorgeLopez3092/javascript-project-3",
-            "image_urls": ["/static/img/jsProject3ss1.png", "/static/img/jsProject3ss2.png", "/static/img/jsProject3ss3.png"]
+            "image_urls": ["/static/img/jsProject3ss1Thumbnail.png", "/static/img/jsProject3ss1.png", "/static/img/jsProject3ss2.png", "/static/img/jsProject3ss3.png"]
         },
         {
             "id": "2",
@@ -25,7 +25,7 @@
             "technologies": ["HTML", "CSS", "JavaScript (OOP)", "jQuery"],
             "live_link": "to be filled",
             "github_link": "https://github.com/JorgeLopez3092/JavaScript-Project-4",
-            "image_urls": ["/static/img/jsProject4ss1.png", "/static/img/jsProject4ss2.png", "/static/img/jsProject4ss3.png", "/static/img/jsProject4ss4.png"]
+            "image_urls": ["/static/img/jsProject4ss1Thumbnail.png", "/static/img/jsProject4ss1.png", "/static/img/jsProject4ss2.png", "/static/img/jsProject4ss3.png", "/static/img/jsProject4ss4.png"]
         },
         {
             "id": "3",
@@ -34,7 +34,7 @@
             "technologies": ["HTML", "CSS", "JavaScript (OOP)", "jQuery"],
             "live_link": "to be filled",
             "github_link": "https://github.com/JorgeLopez3092/JavaScript-Project-4",
-            "image_urls": ["/static/img/jsProject5ss1.png", "/static/img/jsProject5ss2.png", "/static/img/jsProject5ss3.png"]
+            "image_urls": ["/static/img/jsProject5ss1Thumbnail.png", "/static/img/jsProject5ss1.png", "/static/img/jsProject5ss2.png", "/static/img/jsProject5ss3.png"]
         }
     ]
 }
