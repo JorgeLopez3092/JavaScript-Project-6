@@ -14,8 +14,8 @@ router.get('/:id', (req, res, next) => {
     }
     const projectName = projects[id].project_name;
 
-    const { technologies, image_urls, description, github_link } = projects[id];
-    const projInfo = { projectName, technologies, image_urls, description, github_link };
+    const { technologies, image_urls, description, github_link, live_link } = projects[id];
+    const projInfo = { projectName, technologies, image_urls, description, github_link, live_link };
     return res.render('project', { projInfo });
 });
 
