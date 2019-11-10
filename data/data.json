@@ -22,7 +22,7 @@
             "id": "2",
             "project_name": "Game Show App",
             "description": "Wheel of Fortune/Hangman type game.  You need to guess all the letters of the phrase.  After a letter is picked that letter is highlighted and disabled.  You get 5 lives!",
-            "technologies": ["HTML", "CSS", "JavaScript (OOP)", "jQuery"],
+            "technologies": ["HTML", "CSS", "JavaScript (OOP)"],
             "live_link": "to be filled",
             "github_link": "https://github.com/JorgeLopez3092/JavaScript-Project-4",
             "image_urls": ["/static/img/jsProject4ss1Thumbnail.png", "/static/img/jsProject4ss1.png", "/static/img/jsProject4ss2.png", "/static/img/jsProject4ss3.png", "/static/img/jsProject4ss4.png"]
@@ -31,7 +31,7 @@
             "id": "3",
             "project_name": "API Company Directory",
             "description": "Wheel of Fortune/Hangman type game.  You need to guess all the letters of the phrase.  After a letter is picked that letter is highlighted and disabled.  You get 5 lives!",
-            "technologies": ["HTML", "CSS", "JavaScript (OOP)", "jQuery"],
+            "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
             "live_link": "to be filled",
             "github_link": "https://github.com/JorgeLopez3092/JavaScript-Project-4",
             "image_urls": ["/static/img/jsProject5ss1Thumbnail.png", "/static/img/jsProject5ss1.png", "/static/img/jsProject5ss2.png", "/static/img/jsProject5ss3.png"]
