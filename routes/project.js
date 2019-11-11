@@ -3,9 +3,9 @@ const router = express.Router();
 const { projects } = require('../data/data.json');
 
 //Get Project Pages
-router.get('/', ( req, res ) => {
-    res.redirect( `/project/0` )
-});
+// router.get('/', ( req, res ) => {
+//     res.redirect( `/project/0` )
+// });
 
 router.get('/:id', (req, res, next) => {
     let { id } = req.params;

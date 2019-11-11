@@ -161,3 +161,13 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+.backlink404 {
+  margin-left: 40px;
+  margin-right: auto;
+  text-decoration: underline;
+}
+
+.backlink404:hover {
+  color: blue;
+}
