@@ -30,7 +30,7 @@
         {
             "id": "3",
             "project_name": "API Company Directory",
-            "description": "Wheel of Fortune/Hangman type game.  You need to guess all the letters of the phrase.  After a letter is picked that letter is highlighted and disabled.  You get 5 lives!",
+            "description": "Employee directory where the information is obtained from an API.  Every time the page is refreshed a new set of employees are loaded!",
             "technologies": ["HTML", "CSS", "JavaScript", "Fetch API"],
             "live_link": "https://jorgelopez3092.github.io/JavaScript-Project-5/",
             "github_link": "https://github.com/JorgeLopez3092/JavaScript-Project-4",
